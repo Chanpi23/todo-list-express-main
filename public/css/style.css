@@ -1,0 +1,7 @@
+h1{
+    color: red; /* mains stuff  is important*/
+}
+.completed{
+    color: gray;
+    text-decoration: line-through;
+} /*completed tasks*/
